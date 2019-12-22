@@ -1,0 +1,121 @@
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\LadyFitness.exe.config
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\LadyFitness.exe
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\LadyFitness.pdb
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.csprojAssemblyReference.cache
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.Form1.resources
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.Properties.Resources.resources
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.csproj.GenerateResource.cache
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.exe
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.pdb
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.AddNewCard.resources
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.Main.resources
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.ClientDetail.resources
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.ClientSearch.resources
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.AddPersonal.resources
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\RdlCompile.cache
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\RdlCompile.compiled
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.csproj.CopyComplete
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.ClientReport.resources
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\EnvDTE.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.Build.Framework.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\stdole.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\EnvDTE80.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\VSLangProj.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\VSLangProj80.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.MSXML.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\VSLangProj2.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+C:\text\БД\course_work\LadiesFitness\LadyFitness\LadyFitness\obj\Debug\LadyFitness.exe.config
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.csprojAssemblyReference.cache
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.AddNewCard.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.AddPersonal.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.ClientDetail.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.ClientReport.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.ClientSearch.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.Form1.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.Main.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.Properties.Resources.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.csproj.GenerateResource.cache
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\RdlCompile.cache
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\RdlCompile.compiled
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.exe
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.pdb
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\LadyFitness.exe.config
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\LadyFitness.exe
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\LadyFitness.pdb
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.csproj.CopyComplete
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.ChoseClient.resources
