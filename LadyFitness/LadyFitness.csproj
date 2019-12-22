@@ -67,6 +67,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Fitness2DataSet.xsd</DependentUpon>
     </Compile>
+    <Compile Include="Fitness2DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Fitness2DataSet1.xsd</DependentUpon>
+    </Compile>
     <Compile Include="forms\AddNewCard.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -116,6 +121,12 @@
     <Compile Include="forms\Main.Designer.cs">
       <DependentUpon>Main.cs</DependentUpon>
     </Compile>
+    <Compile Include="forms\Main2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\Main2.Designer.cs">
+      <DependentUpon>Main2.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
@@ -148,6 +159,9 @@
     <EmbeddedResource Include="forms\Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="forms\Main2.resx">
+      <DependentUpon>Main2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -168,6 +182,17 @@
     </None>
     <None Include="Fitness2DataSet.xss">
       <DependentUpon>Fitness2DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Fitness2DataSet1.xsc">
+      <DependentUpon>Fitness2DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Fitness2DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Fitness2DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Fitness2DataSet1.xss">
+      <DependentUpon>Fitness2DataSet1.xsd</DependentUpon>
     </None>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">

@@ -50,55 +50,60 @@
             this.labelSurname.Location = new System.Drawing.Point(4, 0);
             this.labelSurname.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelSurname.Name = "labelSurname";
-            this.labelSurname.Size = new System.Drawing.Size(81, 20);
+            this.labelSurname.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelSurname.Size = new System.Drawing.Size(111, 20);
             this.labelSurname.TabIndex = 0;
             this.labelSurname.Text = "Фамилия";
             // 
             // labelName
             // 
             this.labelName.AutoSize = true;
-            this.labelName.Location = new System.Drawing.Point(4, 74);
+            this.labelName.Location = new System.Drawing.Point(4, 67);
             this.labelName.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelName.Name = "labelName";
-            this.labelName.Size = new System.Drawing.Size(40, 20);
+            this.labelName.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelName.Size = new System.Drawing.Size(70, 20);
             this.labelName.TabIndex = 1;
             this.labelName.Text = "Имя";
             // 
             // labelSecondName
             // 
             this.labelSecondName.AutoSize = true;
-            this.labelSecondName.Location = new System.Drawing.Point(4, 149);
+            this.labelSecondName.Location = new System.Drawing.Point(4, 135);
             this.labelSecondName.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelSecondName.Name = "labelSecondName";
-            this.labelSecondName.Size = new System.Drawing.Size(83, 20);
+            this.labelSecondName.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelSecondName.Size = new System.Drawing.Size(113, 20);
             this.labelSecondName.TabIndex = 2;
             this.labelSecondName.Text = "Отчество";
             // 
             // labelPassport
             // 
             this.labelPassport.AutoSize = true;
-            this.labelPassport.Location = new System.Drawing.Point(4, 223);
+            this.labelPassport.Location = new System.Drawing.Point(4, 202);
             this.labelPassport.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelPassport.Name = "labelPassport";
-            this.labelPassport.Size = new System.Drawing.Size(74, 20);
+            this.labelPassport.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelPassport.Size = new System.Drawing.Size(104, 20);
             this.labelPassport.TabIndex = 3;
             this.labelPassport.Text = "Паспорт";
             // 
             // labelBirthday
             // 
             this.labelBirthday.AutoSize = true;
-            this.labelBirthday.Location = new System.Drawing.Point(4, 297);
+            this.labelBirthday.Location = new System.Drawing.Point(4, 269);
             this.labelBirthday.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.labelBirthday.Name = "labelBirthday";
-            this.labelBirthday.Size = new System.Drawing.Size(128, 20);
+            this.labelBirthday.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelBirthday.Size = new System.Drawing.Size(158, 20);
             this.labelBirthday.TabIndex = 4;
             this.labelBirthday.Text = "Дата рождения";
             // 
             // tableLayoutPanel1
             // 
             this.tableLayoutPanel1.ColumnCount = 2;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 30.86643F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 69.13358F));
             this.tableLayoutPanel1.Controls.Add(this.labelSurname, 0, 0);
             this.tableLayoutPanel1.Controls.Add(this.labelName, 0, 1);
             this.tableLayoutPanel1.Controls.Add(this.labelPassport, 0, 3);
@@ -121,47 +126,50 @@
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66633F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66633F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 16.66667F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(800, 450);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(554, 408);
             this.tableLayoutPanel1.TabIndex = 5;
             // 
             // textBoxSurname
             // 
             this.textBoxSurname.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxSurname.Location = new System.Drawing.Point(403, 3);
+            this.textBoxSurname.Location = new System.Drawing.Point(186, 3);
+            this.textBoxSurname.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.textBoxSurname.Name = "textBoxSurname";
-            this.textBoxSurname.Size = new System.Drawing.Size(394, 26);
+            this.textBoxSurname.Size = new System.Drawing.Size(353, 26);
             this.textBoxSurname.TabIndex = 5;
             // 
             // textBoxName
             // 
             this.textBoxName.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxName.Location = new System.Drawing.Point(403, 77);
+            this.textBoxName.Location = new System.Drawing.Point(186, 70);
+            this.textBoxName.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.textBoxName.Name = "textBoxName";
-            this.textBoxName.Size = new System.Drawing.Size(394, 26);
+            this.textBoxName.Size = new System.Drawing.Size(353, 26);
             this.textBoxName.TabIndex = 6;
             // 
             // textBoxSecondName
             // 
             this.textBoxSecondName.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxSecondName.Location = new System.Drawing.Point(403, 152);
+            this.textBoxSecondName.Location = new System.Drawing.Point(186, 138);
+            this.textBoxSecondName.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.textBoxSecondName.Name = "textBoxSecondName";
-            this.textBoxSecondName.Size = new System.Drawing.Size(394, 26);
+            this.textBoxSecondName.Size = new System.Drawing.Size(353, 26);
             this.textBoxSecondName.TabIndex = 7;
             // 
             // textBoxPassport
             // 
             this.textBoxPassport.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxPassport.Location = new System.Drawing.Point(403, 226);
+            this.textBoxPassport.Location = new System.Drawing.Point(186, 205);
+            this.textBoxPassport.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.textBoxPassport.Name = "textBoxPassport";
-            this.textBoxPassport.Size = new System.Drawing.Size(394, 26);
+            this.textBoxPassport.Size = new System.Drawing.Size(353, 26);
             this.textBoxPassport.TabIndex = 8;
             // 
             // button1
             // 
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(403, 374);
+            this.button1.Location = new System.Drawing.Point(174, 339);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(394, 73);
+            this.button1.Size = new System.Drawing.Size(150, 40);
             this.button1.TabIndex = 10;
             this.button1.Text = "Сохранить";
             this.button1.UseVisualStyleBackColor = true;
@@ -169,10 +177,9 @@
             // 
             // buttonAddCard
             // 
-            this.buttonAddCard.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.buttonAddCard.Location = new System.Drawing.Point(3, 374);
+            this.buttonAddCard.Location = new System.Drawing.Point(3, 339);
             this.buttonAddCard.Name = "buttonAddCard";
-            this.buttonAddCard.Size = new System.Drawing.Size(394, 73);
+            this.buttonAddCard.Size = new System.Drawing.Size(150, 40);
             this.buttonAddCard.TabIndex = 11;
             this.buttonAddCard.Text = "Добавить карту";
             this.buttonAddCard.UseVisualStyleBackColor = true;
@@ -181,16 +188,18 @@
             // 
             // dateTimePicker1
             // 
-            this.dateTimePicker1.Location = new System.Drawing.Point(403, 300);
+            this.dateTimePicker1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.dateTimePicker1.Location = new System.Drawing.Point(186, 272);
+            this.dateTimePicker1.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.dateTimePicker1.Name = "dateTimePicker1";
-            this.dateTimePicker1.Size = new System.Drawing.Size(200, 26);
+            this.dateTimePicker1.Size = new System.Drawing.Size(353, 26);
             this.dateTimePicker1.TabIndex = 12;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(554, 408);
             this.Controls.Add(this.tableLayoutPanel1);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);

@@ -54,8 +54,8 @@
             // tableLayoutPanelPersonal
             // 
             this.tableLayoutPanelPersonal.ColumnCount = 2;
-            this.tableLayoutPanelPersonal.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
-            this.tableLayoutPanelPersonal.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanelPersonal.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 24.20495F));
+            this.tableLayoutPanelPersonal.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 75.79505F));
             this.tableLayoutPanelPersonal.Controls.Add(this.labelSurname, 0, 0);
             this.tableLayoutPanelPersonal.Controls.Add(this.labelName, 0, 1);
             this.tableLayoutPanelPersonal.Controls.Add(this.labelSecondName, 0, 2);
@@ -91,7 +91,7 @@
             this.tableLayoutPanelPersonal.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 8.433736F));
             this.tableLayoutPanelPersonal.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 8.433736F));
             this.tableLayoutPanelPersonal.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 8.433736F));
-            this.tableLayoutPanelPersonal.Size = new System.Drawing.Size(566, 475);
+            this.tableLayoutPanelPersonal.Size = new System.Drawing.Size(566, 506);
             this.tableLayoutPanelPersonal.TabIndex = 0;
             // 
             // labelSurname
@@ -99,88 +99,97 @@
             this.labelSurname.AutoSize = true;
             this.labelSurname.Location = new System.Drawing.Point(3, 0);
             this.labelSurname.Name = "labelSurname";
-            this.labelSurname.Size = new System.Drawing.Size(81, 20);
+            this.labelSurname.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelSurname.Size = new System.Drawing.Size(111, 20);
             this.labelSurname.TabIndex = 0;
             this.labelSurname.Text = "Фамилия";
             // 
             // labelName
             // 
             this.labelName.AutoSize = true;
-            this.labelName.Location = new System.Drawing.Point(3, 24);
+            this.labelName.Location = new System.Drawing.Point(3, 25);
             this.labelName.Name = "labelName";
-            this.labelName.Size = new System.Drawing.Size(40, 20);
+            this.labelName.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelName.Size = new System.Drawing.Size(70, 20);
             this.labelName.TabIndex = 1;
             this.labelName.Text = "Имя";
             // 
             // labelSecondName
             // 
             this.labelSecondName.AutoSize = true;
-            this.labelSecondName.Location = new System.Drawing.Point(3, 48);
+            this.labelSecondName.Location = new System.Drawing.Point(3, 50);
             this.labelSecondName.Name = "labelSecondName";
-            this.labelSecondName.Size = new System.Drawing.Size(83, 20);
+            this.labelSecondName.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelSecondName.Size = new System.Drawing.Size(113, 20);
             this.labelSecondName.TabIndex = 2;
             this.labelSecondName.Text = "Отчество";
             // 
             // labelTrainer
             // 
             this.labelTrainer.AutoSize = true;
-            this.labelTrainer.Location = new System.Drawing.Point(3, 72);
+            this.labelTrainer.Location = new System.Drawing.Point(3, 75);
             this.labelTrainer.Name = "labelTrainer";
-            this.labelTrainer.Size = new System.Drawing.Size(63, 20);
+            this.labelTrainer.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelTrainer.Size = new System.Drawing.Size(93, 20);
             this.labelTrainer.TabIndex = 3;
             this.labelTrainer.Text = "Тренер";
             // 
             // labelRoom
             // 
             this.labelRoom.AutoSize = true;
-            this.labelRoom.Location = new System.Drawing.Point(3, 112);
+            this.labelRoom.Location = new System.Drawing.Point(3, 117);
             this.labelRoom.Name = "labelRoom";
-            this.labelRoom.Size = new System.Drawing.Size(39, 20);
+            this.labelRoom.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelRoom.Size = new System.Drawing.Size(69, 20);
             this.labelRoom.TabIndex = 4;
             this.labelRoom.Text = "Зал";
             // 
             // labelWeekDay
             // 
             this.labelWeekDay.AutoSize = true;
-            this.labelWeekDay.Location = new System.Drawing.Point(3, 152);
+            this.labelWeekDay.Location = new System.Drawing.Point(3, 159);
             this.labelWeekDay.Name = "labelWeekDay";
-            this.labelWeekDay.Size = new System.Drawing.Size(109, 20);
+            this.labelWeekDay.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelWeekDay.Size = new System.Drawing.Size(96, 40);
             this.labelWeekDay.TabIndex = 5;
             this.labelWeekDay.Text = "День недели";
             // 
             // labelTrainName
             // 
             this.labelTrainName.AutoSize = true;
-            this.labelTrainName.Location = new System.Drawing.Point(3, 273);
+            this.labelTrainName.Location = new System.Drawing.Point(3, 288);
             this.labelTrainName.Name = "labelTrainName";
-            this.labelTrainName.Size = new System.Drawing.Size(83, 20);
+            this.labelTrainName.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelTrainName.Size = new System.Drawing.Size(113, 20);
             this.labelTrainName.TabIndex = 6;
             this.labelTrainName.Text = "Название";
             // 
             // labelTime
             // 
             this.labelTime.AutoSize = true;
-            this.labelTime.Location = new System.Drawing.Point(3, 313);
+            this.labelTime.Location = new System.Drawing.Point(3, 330);
             this.labelTime.Name = "labelTime";
-            this.labelTime.Size = new System.Drawing.Size(58, 20);
+            this.labelTime.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelTime.Size = new System.Drawing.Size(88, 20);
             this.labelTime.TabIndex = 8;
             this.labelTime.Text = "Время";
             // 
             // labelCost
             // 
             this.labelCost.AutoSize = true;
-            this.labelCost.Location = new System.Drawing.Point(3, 353);
+            this.labelCost.Location = new System.Drawing.Point(3, 372);
             this.labelCost.Name = "labelCost";
-            this.labelCost.Size = new System.Drawing.Size(93, 20);
+            this.labelCost.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.labelCost.Size = new System.Drawing.Size(123, 20);
             this.labelCost.TabIndex = 9;
             this.labelCost.Text = "Стоимость";
             // 
             // button1
             // 
-            this.button1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.button1.Location = new System.Drawing.Point(286, 436);
+            this.button1.Location = new System.Drawing.Point(151, 459);
+            this.button1.Margin = new System.Windows.Forms.Padding(15, 3, 3, 3);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(277, 36);
+            this.button1.Size = new System.Drawing.Size(150, 40);
             this.button1.TabIndex = 10;
             this.button1.Text = "Добавить";
             this.button1.UseVisualStyleBackColor = true;
@@ -192,9 +201,10 @@
             this.comboBoxTrainer.FormattingEnabled = true;
             this.comboBoxTrainer.Items.AddRange(new object[] {
             "Николай"});
-            this.comboBoxTrainer.Location = new System.Drawing.Point(286, 75);
+            this.comboBoxTrainer.Location = new System.Drawing.Point(151, 78);
+            this.comboBoxTrainer.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.comboBoxTrainer.Name = "comboBoxTrainer";
-            this.comboBoxTrainer.Size = new System.Drawing.Size(277, 28);
+            this.comboBoxTrainer.Size = new System.Drawing.Size(400, 28);
             this.comboBoxTrainer.TabIndex = 11;
             // 
             // comboBoxRoom
@@ -205,56 +215,63 @@
             "Тренажерный",
             "Групповых программ",
             "Йоги"});
-            this.comboBoxRoom.Location = new System.Drawing.Point(286, 115);
+            this.comboBoxRoom.Location = new System.Drawing.Point(151, 120);
+            this.comboBoxRoom.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.comboBoxRoom.Name = "comboBoxRoom";
-            this.comboBoxRoom.Size = new System.Drawing.Size(277, 28);
+            this.comboBoxRoom.Size = new System.Drawing.Size(400, 28);
             this.comboBoxRoom.TabIndex = 12;
             // 
             // textBoxTrainName
             // 
             this.textBoxTrainName.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxTrainName.Location = new System.Drawing.Point(286, 276);
+            this.textBoxTrainName.Location = new System.Drawing.Point(151, 291);
+            this.textBoxTrainName.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.textBoxTrainName.Name = "textBoxTrainName";
-            this.textBoxTrainName.Size = new System.Drawing.Size(277, 26);
+            this.textBoxTrainName.Size = new System.Drawing.Size(400, 26);
             this.textBoxTrainName.TabIndex = 14;
             // 
             // dateTimePicker
             // 
             this.dateTimePicker.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.dateTimePicker.Location = new System.Drawing.Point(286, 316);
+            this.dateTimePicker.Location = new System.Drawing.Point(151, 333);
+            this.dateTimePicker.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.dateTimePicker.Name = "dateTimePicker";
-            this.dateTimePicker.Size = new System.Drawing.Size(277, 26);
+            this.dateTimePicker.Size = new System.Drawing.Size(400, 26);
             this.dateTimePicker.TabIndex = 15;
             // 
             // textBoxCost
             // 
             this.textBoxCost.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxCost.Location = new System.Drawing.Point(286, 356);
+            this.textBoxCost.Location = new System.Drawing.Point(151, 375);
+            this.textBoxCost.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.textBoxCost.Name = "textBoxCost";
-            this.textBoxCost.Size = new System.Drawing.Size(277, 26);
+            this.textBoxCost.Size = new System.Drawing.Size(400, 26);
             this.textBoxCost.TabIndex = 16;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(3, 393);
+            this.label1.Location = new System.Drawing.Point(3, 414);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(100, 20);
+            this.label1.Padding = new System.Windows.Forms.Padding(15, 0, 15, 0);
+            this.label1.Size = new System.Drawing.Size(130, 20);
             this.label1.TabIndex = 17;
             this.label1.Text = "Количество";
             // 
             // textBoxCount
             // 
             this.textBoxCount.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxCount.Location = new System.Drawing.Point(286, 396);
+            this.textBoxCount.Location = new System.Drawing.Point(151, 417);
+            this.textBoxCount.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.textBoxCount.Name = "textBoxCount";
-            this.textBoxCount.Size = new System.Drawing.Size(277, 26);
+            this.textBoxCount.Size = new System.Drawing.Size(400, 26);
             this.textBoxCount.TabIndex = 18;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(286, 0);
+            this.label2.Location = new System.Drawing.Point(151, 0);
+            this.label2.Margin = new System.Windows.Forms.Padding(15, 0, 15, 0);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(109, 20);
             this.label2.TabIndex = 19;
@@ -272,17 +289,18 @@
             "четверг",
             "пятница",
             "суббота"});
-            this.listBoxWeekDay.Location = new System.Drawing.Point(286, 155);
+            this.listBoxWeekDay.Location = new System.Drawing.Point(151, 162);
+            this.listBoxWeekDay.Margin = new System.Windows.Forms.Padding(15, 3, 15, 3);
             this.listBoxWeekDay.Name = "listBoxWeekDay";
             this.listBoxWeekDay.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
-            this.listBoxWeekDay.Size = new System.Drawing.Size(277, 115);
+            this.listBoxWeekDay.Size = new System.Drawing.Size(400, 123);
             this.listBoxWeekDay.TabIndex = 20;
             // 
             // AddPersonal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(566, 475);
+            this.ClientSize = new System.Drawing.Size(566, 506);
             this.Controls.Add(this.tableLayoutPanelPersonal);
             this.Name = "AddPersonal";
             this.Text = "Добавить персональную тренировку";

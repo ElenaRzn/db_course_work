@@ -119,3 +119,4 @@ C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bi
 C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\bin\Debug\Microsoft.SqlServer.Types.dll
 C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.csproj.CopyComplete
 C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.ChoseClient.resources
+C:\text\БД\course_work\LadiesFitness — копия\LadyFitness\LadyFitness\obj\Debug\LadyFitness.forms.Main2.resources
